@@ -1,6 +1,5 @@
 package com.employee.springboot.empdemo.rest;
 
-import com.employee.springboot.empdemo.dao.EmployeeDAO;
 import com.employee.springboot.empdemo.entity.Employee;
 import com.employee.springboot.empdemo.service.EmployeeService;
 import com.fasterxml.jackson.databind.ObjectMapper;
